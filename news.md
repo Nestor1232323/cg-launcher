@@ -1,3 +1,6 @@
+## 1.5.0 - May 26, 2026
+Full redesign of launcher, rewritten from scratch
+
 ## 1.4.5 - May 20, 2025
 Added New Official Private Servers, Redesigned the Settings GUI
 
