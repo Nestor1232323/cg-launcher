@@ -1,5 +1,3 @@
-# Changelog
-
 ## 1.4.5 - May 20, 2025
 Added New Official Private Servers, Redesigned the Settings GUI
 
