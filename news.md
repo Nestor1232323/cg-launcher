@@ -1,3 +1,6 @@
+## 1.5.1 - June 15, 2026
+ADDED fetch versions of Chicken Gun from internet
+
 ## 1.5.0 - May 26, 2026
 Full redesign of launcher, rewritten from scratch
 
